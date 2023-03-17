@@ -18,15 +18,20 @@ INFORMASI LOGIN :
 
 ADMIN
 username : admin
+================
 password : admin
+================
 ================
 
 KASIR
 username : kasir
+================
 password : kasir
+================
 ================
 
 CEO/Pemilik
 username : ceo
+================
 password : ceo
 ================
